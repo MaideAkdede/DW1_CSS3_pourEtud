@@ -26,4 +26,6 @@ div {
 	background: #fff;
 	border: 1px solid #555;
 	box-shadow: 3px 3px 5px #aaa;
+
+	background-image: linear-gradient(to right, #000000 33.333%, #FFE936 33.333%, #FFE936 66.666%, #FF0F21 66.666%);
 }
