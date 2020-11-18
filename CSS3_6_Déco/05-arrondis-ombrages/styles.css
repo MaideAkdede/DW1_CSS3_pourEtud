@@ -1,0 +1,17 @@
+
+/* ----------------------------- */
+/*  Arrondis et ombrages         */
+/* ----------------------------- */
+/*
+
+0- appliquez
+    * au document : une couleur de fond F1EFE2, une police Georgia en 26px et des padding de 10px en haut et en bas et de 40px à droite et à gauche
+    * au titre principal une marge de 20px en haut et de 40px en bas, une couleur de texte 345 et un ombre de 1px décalée de 1px sur la droite en FFF
+    * le pargraphe s'affiche en blanc sur un fond 6B9A49 avec un padding de 10px
+
+1- Attribuez un arrondi de 20px sur les coins de droite du paragraphe
+2- Affectez un ombrage au paragraphe : 0px à droite et en bas, 10px de fondu et couleur noire semi-transparente (0.5)
+
+*/
+
+

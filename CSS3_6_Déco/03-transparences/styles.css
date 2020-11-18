@@ -1,0 +1,19 @@
+
+/* ----------------------------- */
+/*   Transparences               */
+/* ----------------------------- */
+/*
+0- appliquez
+    * au document : une couleur de fond F1EFE2, une police Georgia en 26px et des padding de 10px en haut et en bas et de 40px à droite et à gauche
+    * au titre principal une marge de 20 px en haut et de 40px en bas, une couleur de texte 345 et un ombre de 1px décalée de 1px sur la droite en FFF
+    * à la liste un padding de 20px et un fond 6B9A49
+    * affichez les li les uns à coté des autres
+    * les liens doivent avoir un fond blanc et une couleur 555 avec un padding de 5px en haut et en bas et de 15px à droite et à gauche
+
+1- appliquez une opacité de 0.2 aux liens de la première liste
+
+2- appliquez une couleur d'arrière-plan blanche semi-transparente (valeur 0.2) aux liens de la seconde liste
+
+3- au survol et au focus, toutes les transparences des liens deviennent opaques
+
+*/

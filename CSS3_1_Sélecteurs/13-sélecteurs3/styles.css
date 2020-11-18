@@ -1,0 +1,26 @@
+/* ----------------------------- */
+/*   Sélecteurs 3               */
+/* ----------------------------- */
+/*
+0- appliquez
+    * au document : une couleur de fond blanche, une police Georgia en 26px et des padding de 10px en haut et en bas et de 20px à droite et à gauche
+    * au titre principal une marge de 20 px en haut, 40px en bas et 20px à gauche, une couleur de texte 345 et un ombre de 1px décalée de 1px sur la droite en FFF
+    * aux listes des padding et des marges de 0
+    * à la liste d'id slides un fond blanc
+    * à la liste d'id nav une marge à gauhe de 12px
+    * affichez les li les uns à coté des autres
+    * les liens doivent avoir un fond blanc et une couleur 555 avec un padding de 5px en haut et en bas et de 15px à droite et à gauche
+    * les liens de la liste d'id nav sont en blanc sur fond noir, gras, 90% de la taille de leur parent, non soulignés, avec un padding de 2px en haut et en bas et de 12px à droite et à gauche
+
+1- Les slides d'images :
+ - #slides doit avoir une dimension de 300x200px
+ - chaque item de liste dans #slides doit se positionner en absolu à 0 0 de #slides et avec un z-index de 0
+ - chaque image a des coins arrondis (12px)
+ - chaque image sauf la première a une opacité de 0
+2- La navigation :
+ - les liens de navigation doivent avoir des coins arrondis en haut uniquement et une couleur de fond "noire semi-transparente 0.3"
+
+Au survol d'un lien de navigation, sa couleur de fond doit passer à "noire semi-transparente 0.6"
+
+Au clic sur un lien de navigation, l'image correspondante doit apparaître (opacité 1 sur l'image)
+*/

@@ -1,0 +1,21 @@
+
+/* ----------------------------- */
+/*   Transformations             */
+/* ----------------------------- */
+/*
+
+0- appliquez
+    * au body : un fond #F1EFE2, des paddings de 10px en haut et en bas et de 40px à droite et à gauche, pas de marge et une police Georgia en 1.6em
+    * au titre principal : une marge de 20px en haut et 40px en bas, un texte centré de couleur #345 et une ombre blanche sur le texte décalée d'1px vers le bas et vers la droite avec un fondu d'1px 
+    * au div#main : un padding de 10px tout autour, une largeur de 600px, un fond #6B9A49, une couleur blanche, centrez-le
+    * au a#button : un fond #F11A57, un texte blanc non souligné de taille 18px
+
+1- le lien #button doit être
+    *tourné de 45 degrés
+    * disposer d'un ombrage de valeurs 0 5px 12px #aaa
+2- le lien doit disposer d'un padding de 150px en haut, 100px sur les côtés et 10px en bas
+3- Enfin, positionnez #button pour qu'il reste fixé en haut de la page (top -70px et right -140px) 
+
+
+*/
+

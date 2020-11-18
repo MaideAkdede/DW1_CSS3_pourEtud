@@ -1,0 +1,29 @@
+
+/* ----------------------------- */
+/*   Transition                  */
+/* ----------------------------- */
+/*
+
+L'image du DVD doit se décaler à -150px vers la gauche et se placer sous (derrière) la pochette. 
+
+Au survol de la pochette :
+- le DVD retourne à sa position initiale en effectuant un tour sur lui-même de 360 degrés (durée de transition : 0.8s)
+
+*/
+
+
+body {margin:0; padding:10px 40px; background:#fff;
+	font-size: 1.4em;
+	font-family: georgia, "trebuchet ms", arial, serif;}
+h1 {margin-top: 20px; margin-bottom: 40px;
+	color: #345; text-shadow: 1px 1px 1px #fff;}
+
+div img[alt="pochette"] {
+	-webkit-box-shadow: 5px 0 5px rgba(0,0,0,.4);
+	-moz-box-shadow: 5px 0 5px rgba(0,0,0,.4);
+	-ms-box-shadow: 5px 0 5px rgba(0,0,0,.4);
+	-o-box-shadow: 5px 0 5px rgba(0,0,0,.4);
+	box-shadow: 5px 0 5px rgba(0,0,0,.4);
+}
+
+
