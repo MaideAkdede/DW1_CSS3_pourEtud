@@ -22,3 +22,16 @@ p {width: 800px; padding: 10px; background: #6B9A49; color: #fff;}
 p a {color: #fff;}
 
 
+@media (max-width: 800px){
+	p{
+		background: #F11A57;
+		color: #dd0;
+		width: auto;
+	}
+
+}
+@media (orientation: portrait) {
+	body:before{
+		content: "Vous êtes en format Portrait";
+	}
+}
