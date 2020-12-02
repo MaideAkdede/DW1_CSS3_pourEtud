@@ -21,3 +21,33 @@ body {margin:0; padding:10px 40px; background:#F1EFE2;
 h1 {margin-top: 20px; margin-bottom: 40px;
 	color: #345; text-shadow: 1px 1px 1px #fff;}
 p {color: #555;}
+
+/* - - E X E R C I C E S - - */
+ul{
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+}
+
+li img{
+	animation: rotate 1s 2s 1 ;
+}
+
+@keyframes rotate{
+	0%{
+		animation-delay: 2s;
+	}
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+img:hover{
+	animation: rotateHover 1s 1;
+}
+
+@keyframes rotateHover{
+	100% {
+		transform: rotate(360deg);
+	}
+}
